@@ -1,0 +1,9 @@
+{
+  "answer": "The trial enrolled 120 adults [study]. The study proves the treatment works for every child [study].",
+  "sources": [
+    {
+      "id": "study",
+      "text": "The trial enrolled 120 adults. No children participated in this study. The result is preliminary and does not establish efficacy for children."
+    }
+  ]
+}
